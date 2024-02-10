@@ -26,3 +26,4 @@
 /Users/reamlab/RiderProjects/DesignPattern/Singlton/obj/Debug/net8.0/Singlton.pdb
 /Users/reamlab/RiderProjects/DesignPattern/Singlton/obj/Debug/net8.0/Singlton.genruntimeconfig.cache
 /Users/reamlab/RiderProjects/DesignPattern/Singlton/obj/Debug/net8.0/ref/Singlton.dll
+/Users/reamlab/RiderProjects/DesignPattern/Singlton/obj/Debug/net8.0/Singlton.sourcelink.json
