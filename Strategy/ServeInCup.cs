@@ -4,6 +4,6 @@ public class ServeInCup: IServeStrategy
 {
     public void Serve()
     {
-        Console.WriteLine("Serving ice cream as a milkshake.");
+        Console.WriteLine("Serving ice cream in a cup.");
     }
 }

@@ -16,7 +16,7 @@ public class IceCreamShop
         _serveStrategy = serveStrategy;
     }
     
-    // Method to serve ice cream using the current serving strategy
+    //serve ice cream using the current serving strategy
     public void ServeIceCream()
     {
         _serveStrategy.Serve();
