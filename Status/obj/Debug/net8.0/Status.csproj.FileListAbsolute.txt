@@ -1,0 +1,15 @@
+/Users/reamlab/RiderProjects/DesignPattern/Status/bin/Debug/net8.0/Status
+/Users/reamlab/RiderProjects/DesignPattern/Status/bin/Debug/net8.0/Status.deps.json
+/Users/reamlab/RiderProjects/DesignPattern/Status/bin/Debug/net8.0/Status.runtimeconfig.json
+/Users/reamlab/RiderProjects/DesignPattern/Status/bin/Debug/net8.0/Status.dll
+/Users/reamlab/RiderProjects/DesignPattern/Status/bin/Debug/net8.0/Status.pdb
+/Users/reamlab/RiderProjects/DesignPattern/Status/obj/Debug/net8.0/Status.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reamlab/RiderProjects/DesignPattern/Status/obj/Debug/net8.0/Status.AssemblyInfoInputs.cache
+/Users/reamlab/RiderProjects/DesignPattern/Status/obj/Debug/net8.0/Status.AssemblyInfo.cs
+/Users/reamlab/RiderProjects/DesignPattern/Status/obj/Debug/net8.0/Status.csproj.CoreCompileInputs.cache
+/Users/reamlab/RiderProjects/DesignPattern/Status/obj/Debug/net8.0/Status.sourcelink.json
+/Users/reamlab/RiderProjects/DesignPattern/Status/obj/Debug/net8.0/Status.dll
+/Users/reamlab/RiderProjects/DesignPattern/Status/obj/Debug/net8.0/refint/Status.dll
+/Users/reamlab/RiderProjects/DesignPattern/Status/obj/Debug/net8.0/Status.pdb
+/Users/reamlab/RiderProjects/DesignPattern/Status/obj/Debug/net8.0/Status.genruntimeconfig.cache
+/Users/reamlab/RiderProjects/DesignPattern/Status/obj/Debug/net8.0/ref/Status.dll

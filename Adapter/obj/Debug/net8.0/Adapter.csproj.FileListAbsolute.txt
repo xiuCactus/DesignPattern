@@ -1,0 +1,15 @@
+/Users/reamlab/RiderProjects/DesignPattern/Adapter/bin/Debug/net8.0/Adapter
+/Users/reamlab/RiderProjects/DesignPattern/Adapter/bin/Debug/net8.0/Adapter.deps.json
+/Users/reamlab/RiderProjects/DesignPattern/Adapter/bin/Debug/net8.0/Adapter.runtimeconfig.json
+/Users/reamlab/RiderProjects/DesignPattern/Adapter/bin/Debug/net8.0/Adapter.dll
+/Users/reamlab/RiderProjects/DesignPattern/Adapter/bin/Debug/net8.0/Adapter.pdb
+/Users/reamlab/RiderProjects/DesignPattern/Adapter/obj/Debug/net8.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reamlab/RiderProjects/DesignPattern/Adapter/obj/Debug/net8.0/Adapter.AssemblyInfoInputs.cache
+/Users/reamlab/RiderProjects/DesignPattern/Adapter/obj/Debug/net8.0/Adapter.AssemblyInfo.cs
+/Users/reamlab/RiderProjects/DesignPattern/Adapter/obj/Debug/net8.0/Adapter.csproj.CoreCompileInputs.cache
+/Users/reamlab/RiderProjects/DesignPattern/Adapter/obj/Debug/net8.0/Adapter.sourcelink.json
+/Users/reamlab/RiderProjects/DesignPattern/Adapter/obj/Debug/net8.0/Adapter.dll
+/Users/reamlab/RiderProjects/DesignPattern/Adapter/obj/Debug/net8.0/refint/Adapter.dll
+/Users/reamlab/RiderProjects/DesignPattern/Adapter/obj/Debug/net8.0/Adapter.pdb
+/Users/reamlab/RiderProjects/DesignPattern/Adapter/obj/Debug/net8.0/Adapter.genruntimeconfig.cache
+/Users/reamlab/RiderProjects/DesignPattern/Adapter/obj/Debug/net8.0/ref/Adapter.dll
