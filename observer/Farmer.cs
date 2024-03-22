@@ -12,6 +12,8 @@ public class Farmer: IObserver
         if (humidity < 50)
         {
             Console.WriteLine("water the plant");
+
+hi itös me 
         }
     }
 }
