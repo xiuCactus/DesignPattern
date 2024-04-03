@@ -13,7 +13,6 @@ public class Farmer: IObserver
         {
             Console.WriteLine("water the plant");
 
-hi itös me 
         }
     }
 }
